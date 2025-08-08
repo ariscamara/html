@@ -1,0 +1,21 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/cliui/node_modules"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_e1940c2262e5f817ce912a59c728d417 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="cliui", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_e1940c2262e5f817ce912a59c728d417.html",tooltip=""]
+  subgraph clusterdir_bbe0ca236ea5c440e34f38b0740e625b {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_bbe0ca236ea5c440e34f38b0740e625b.html",tooltip=""]
+    dir_bbe0ca236ea5c440e34f38b0740e625b [shape=plaintext, label="node_modules"];
+  dir_41b74c940e6ded8591967fd43a1cac3c [label="ansi-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_41b74c940e6ded8591967fd43a1cac3c.html",tooltip=""];
+  dir_15792eb21808cfab54b73b08a93233b3 [label="ansi-styles", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_15792eb21808cfab54b73b08a93233b3.html",tooltip=""];
+  dir_dd3e2216142adbaf99b795b37df9325e [label="emoji-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_dd3e2216142adbaf99b795b37df9325e.html",tooltip=""];
+  dir_2f8a10dd9364cc9e928b5f73e4e6138e [label="string-width", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2f8a10dd9364cc9e928b5f73e4e6138e.html",tooltip=""];
+  dir_57bb97cfabd795c44a9e91e413cd657d [label="strip-ansi", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_57bb97cfabd795c44a9e91e413cd657d.html",tooltip=""];
+  dir_a294808cc4091773b8e59790fbd849b3 [label="wrap-ansi", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a294808cc4091773b8e59790fbd849b3.html",tooltip=""];
+  }
+  }
+}

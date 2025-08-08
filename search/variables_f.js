@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['page_0',['page',['../structsharp_1_1_input_descriptor.html#ad974340e5c5f2fbb346ca8ae6fd076e6',1,'sharp::InputDescriptor']]],
+  ['pageheight_1',['pageHeight',['../struct_metadata_baton.html#a10830305a66585b2e3b50ba1629dfba0',1,'MetadataBaton']]],
+  ['pageheightout_2',['pageHeightOut',['../struct_pipeline_baton.html#a5f2527e52c06ea12ce95cbd309707b3a',1,'PipelineBaton']]],
+  ['pageprimary_3',['pagePrimary',['../struct_metadata_baton.html#a59f467d41b9197ccd6070e5fd48d4768',1,'MetadataBaton']]],
+  ['pages_4',['pages',['../structsharp_1_1_input_descriptor.html#aa10898485b8471cc21cdddb75f3a4f79',1,'sharp::InputDescriptor::pages'],['../struct_metadata_baton.html#aaffc0afbe4d3c6fa1d6b6ea3a07a7179',1,'MetadataBaton::pages']]],
+  ['pagesout_5',['pagesOut',['../struct_pipeline_baton.html#a4bc5f37a6617357dcbd910a2c259c8ed',1,'PipelineBaton']]],
+  ['palettebitdepth_6',['paletteBitDepth',['../struct_metadata_baton.html#a80f83550990d428335fca58dcd37d7a7',1,'MetadataBaton']]],
+  ['png_5fcomment_5fstart_7',['PNG_COMMENT_START',['../metadata_8cc.html#a0f4155a63f42d4768edddc50ad73d011',1,'metadata.cc']]],
+  ['png_5fcomment_5fstart_5flen_8',['PNG_COMMENT_START_LEN',['../metadata_8cc.html#a354e8f67c04e67f0431d2b069f20eaa8',1,'metadata.cc']]],
+  ['pngadaptivefiltering_9',['pngAdaptiveFiltering',['../struct_pipeline_baton.html#a29164958751d0ed552a9c43db44c1ee3',1,'PipelineBaton']]],
+  ['pngbitdepth_10',['pngBitdepth',['../struct_pipeline_baton.html#af588d65913a38d4faed8b11f864425bf',1,'PipelineBaton']]],
+  ['pngcompressionlevel_11',['pngCompressionLevel',['../struct_pipeline_baton.html#a034327b72f79c5685c4ee8a3c610c87d',1,'PipelineBaton']]],
+  ['pngdither_12',['pngDither',['../struct_pipeline_baton.html#afb69d6c4dd6f6b327cb9259379ba41b0',1,'PipelineBaton']]],
+  ['pngeffort_13',['pngEffort',['../struct_pipeline_baton.html#aa878a7cab966754330cc502e8716648f',1,'PipelineBaton']]],
+  ['pngpalette_14',['pngPalette',['../struct_pipeline_baton.html#ab6b1258b54f70566f818eed96d32385f',1,'PipelineBaton']]],
+  ['pngprogressive_15',['pngProgressive',['../struct_pipeline_baton.html#aad1b7c7bcd55e9c666b5ba19e383bf51',1,'PipelineBaton']]],
+  ['pngquality_16',['pngQuality',['../struct_pipeline_baton.html#a0e7b1cafa08801ffe463f84266dfc748',1,'PipelineBaton']]],
+  ['port_17',['port',['../namespacebackend_1_1main.html#a6962975c1b3ed441cfe7961650eb2313',1,'backend::main']]],
+  ['position_18',['position',['../struct_pipeline_baton.html#a1cff0c2ce5ddbf9833b41a225a17168c',1,'PipelineBaton']]],
+  ['precision_19',['precision',['../struct_pipeline_baton.html#a6e967d2b868a67fed6d4eaa7c4c9c8d8',1,'PipelineBaton']]],
+  ['premultiplied_20',['premultiplied',['../struct_composite.html#a0d512f652d3306d31e5d05594f8c1ef1',1,'Composite::premultiplied'],['../struct_pipeline_baton.html#add726c1a020731c1193da32ba88b2948',1,'PipelineBaton::premultiplied']]],
+  ['prep_5ftime_21',['prep_time',['../classbackend_1_1models_1_1_recipe.html#ae2bace6d66b92ea49ad95c9aa2649e2d',1,'backend::models::Recipe']]],
+  ['purchase_5fdate_22',['purchase_date',['../classbackend_1_1models_1_1_inventory_item.html#a8286b3e93ca5f5f6a1d0a96d44a338d7',1,'backend.models.InventoryItem.purchase_date'],['../classbackend_1_1schemas_1_1_inventory_item_update.html#a52da0d3f47259dbbe1e6f7b05f733ee1',1,'backend.schemas.InventoryItemUpdate.purchase_date']]]
+];

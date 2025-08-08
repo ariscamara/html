@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['saturation_0',['saturation',['../struct_pipeline_baton.html#afa074cb970006d5caa2492aa9593852c',1,'PipelineBaton']]],
+  ['sessionlocal_1',['SessionLocal',['../namespacebackend_1_1database.html#a8ba095081b8056c2d6d292836280495a',1,'backend.database.SessionLocal'],['../namespacebackend_1_1populate__inventory.html#a0d643a863d10cb43a7ab1f2ac975bae0',1,'backend.populate_inventory.SessionLocal']]],
+  ['sharpenm1_2',['sharpenM1',['../struct_pipeline_baton.html#a3732bcaffc2313758bc652051c41154b',1,'PipelineBaton']]],
+  ['sharpenm2_3',['sharpenM2',['../struct_pipeline_baton.html#a13ab867d3237aa8db6f7aae22a9d9318',1,'PipelineBaton']]],
+  ['sharpensigma_4',['sharpenSigma',['../struct_pipeline_baton.html#a1af5cbed03e996b5b72fd0db9d9622b6',1,'PipelineBaton']]],
+  ['sharpenx1_5',['sharpenX1',['../struct_pipeline_baton.html#a8ac7234635f1bb1267fc980b81b7bb25',1,'PipelineBaton']]],
+  ['sharpeny2_6',['sharpenY2',['../struct_pipeline_baton.html#ac99b41175ed2b5c7c2d6fec19f1b3e3f',1,'PipelineBaton']]],
+  ['sharpeny3_7',['sharpenY3',['../struct_pipeline_baton.html#a3101523f07d3ab30359dea85b255265a',1,'PipelineBaton']]],
+  ['sharpness_8',['sharpness',['../struct_stats_baton.html#a4346c01fb0d4352c299705d8ff837c14',1,'StatsBaton']]],
+  ['space_9',['space',['../struct_metadata_baton.html#a5ed404a53dedf8867e1b3cb22e16974c',1,'MetadataBaton']]],
+  ['squaressum_10',['squaresSum',['../struct_channel_stats.html#aa8679f2665aea872edcd777f48edd546',1,'ChannelStats']]],
+  ['stat_5fmax_5findex_11',['STAT_MAX_INDEX',['../class_stats_worker.html#a790c564b556be94ee5503a2041c604c8',1,'StatsWorker']]],
+  ['stat_5fmaxx_5findex_12',['STAT_MAXX_INDEX',['../class_stats_worker.html#a13361edd237333355fb5cba0bb06ec43',1,'StatsWorker']]],
+  ['stat_5fmaxy_5findex_13',['STAT_MAXY_INDEX',['../class_stats_worker.html#adaffcae6ab27ac00a92f8b288d760622',1,'StatsWorker']]],
+  ['stat_5fmean_5findex_14',['STAT_MEAN_INDEX',['../class_stats_worker.html#aa148c1780184faf234cdcc1ad3fcd734',1,'StatsWorker']]],
+  ['stat_5fmin_5findex_15',['STAT_MIN_INDEX',['../class_stats_worker.html#a8d525781b30f714ae304ab07f26fc6fc',1,'StatsWorker']]],
+  ['stat_5fminx_5findex_16',['STAT_MINX_INDEX',['../class_stats_worker.html#aa41e4dd430f2968f40bfb69fa120c328',1,'StatsWorker']]],
+  ['stat_5fminy_5findex_17',['STAT_MINY_INDEX',['../class_stats_worker.html#a711a8694dbb52e92a9931d22034b326a',1,'StatsWorker']]],
+  ['stat_5fsq_5fsum_5findex_18',['STAT_SQ_SUM_INDEX',['../class_stats_worker.html#a8ffdd51b90ddd8be406b6dc1afa856c2',1,'StatsWorker']]],
+  ['stat_5fstdev_5findex_19',['STAT_STDEV_INDEX',['../class_stats_worker.html#aeeafdb5a9ab3107ed0f8879fb62a147e',1,'StatsWorker']]],
+  ['stat_5fsum_5findex_20',['STAT_SUM_INDEX',['../class_stats_worker.html#a948e574913412019d55cb4f5b42e281a',1,'StatsWorker']]],
+  ['stdev_21',['stdev',['../struct_channel_stats.html#a8563212a566d97c0f125af6f5a1d86de',1,'ChannelStats']]],
+  ['subifd_22',['subifd',['../structsharp_1_1_input_descriptor.html#a765fb10dac1f61ed4e5a5efb48c95657',1,'sharp::InputDescriptor']]],
+  ['subifds_23',['subifds',['../struct_metadata_baton.html#a74d5a21f516c11421f0f102292e1a6b0',1,'MetadataBaton']]],
+  ['sum_24',['sum',['../struct_channel_stats.html#ad6432af21da4d6214101d44aad0f029b',1,'ChannelStats']]]
+];

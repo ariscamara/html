@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['imagetypeid_0',['ImageTypeId',['../namespacesharp.html#ace8b0212e74016d120b94f7050ed4464',1,'sharp']]],
+  ['imagetypesupportspage_1',['ImageTypeSupportsPage',['../namespacesharp.html#a2b24b73051dbda8d7e89176fc276f2c2',1,'sharp']]],
+  ['imagetypesupportsunlimited_2',['ImageTypeSupportsUnlimited',['../namespacesharp.html#afc3582dd130d985601f8ee7dfa4449da',1,'sharp']]],
+  ['init_3',['init',['../sharp_8cc.html#adb8d15b3cfb5d1285f3f5505d7659610',1,'sharp.cc']]],
+  ['inputdescriptor_4',['InputDescriptor',['../structsharp_1_1_input_descriptor.html#a47f6365797825b7e85751bfdf0b7f8f6',1,'sharp::InputDescriptor']]],
+  ['is16bit_5',['Is16Bit',['../namespacesharp.html#afbc1dba0c01a0afe83a7de216eb0ff9f',1,'sharp']]],
+  ['isavif_6',['IsAvif',['../namespacesharp.html#adc5d47511efe5e03d35385d17aff3862',1,'sharp']]],
+  ['isdz_7',['IsDz',['../namespacesharp.html#ab9452dc28134aea95018a07ac49e311a',1,'sharp']]],
+  ['isdzzip_8',['IsDzZip',['../namespacesharp.html#a5e8bd89af36f5d239716ea99885b5f26',1,'sharp']]],
+  ['isgif_9',['IsGif',['../namespacesharp.html#ac8bbceccc71d74636af015200a39c824',1,'sharp']]],
+  ['isheic_10',['IsHeic',['../namespacesharp.html#a3bf2fbb8b86a43c68f7d2d0c9cebb217',1,'sharp']]],
+  ['isheif_11',['IsHeif',['../namespacesharp.html#a7c031dcd11874cf2a37d272d896fbf0f',1,'sharp']]],
+  ['isjp2_12',['IsJp2',['../namespacesharp.html#ab288db6c04597124cceedcccd2d704e1',1,'sharp']]],
+  ['isjpeg_13',['IsJpeg',['../namespacesharp.html#a7dc56c0c6ff38b07d757bf0b260cbe05',1,'sharp']]],
+  ['isjxl_14',['IsJxl',['../namespacesharp.html#ad2445aa059c1596eea269e3cc3d80d83',1,'sharp']]],
+  ['ispng_15',['IsPng',['../namespacesharp.html#ab0596bdff2dd8914f1a8812207b69011',1,'sharp']]],
+  ['istiff_16',['IsTiff',['../namespacesharp.html#aaba41f14caa542b115e8815ed6bfd90f',1,'sharp']]],
+  ['isv_17',['IsV',['../namespacesharp.html#a2b0a478d3b14fd663e38e43cc3712239',1,'sharp']]],
+  ['iswebp_18',['IsWebp',['../namespacesharp.html#ab04ba727eda6646d3fca8346f83e92f0',1,'sharp']]]
+];

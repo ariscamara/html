@@ -1,0 +1,16 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/@types/jest"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_fcfbd2bcc1e777bae19fd8075af818f1 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="@types", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_fcfbd2bcc1e777bae19fd8075af818f1.html",tooltip=""]
+  subgraph clusterdir_4f06a325394480918f2b2d302d0c8138 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_4f06a325394480918f2b2d302d0c8138.html",tooltip=""]
+    dir_4f06a325394480918f2b2d302d0c8138 [shape=plaintext, label="jest"];
+  dir_237c8dd130bfdad7ebfed44fbb83e2d7 [label="node_modules", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_237c8dd130bfdad7ebfed44fbb83e2d7.html",tooltip=""];
+  }
+  }
+}

@@ -1,0 +1,42 @@
+digraph "StatsWorker::Execute"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="StatsWorker::Execute",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="sharp::HasAlpha",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#ae7eb446a5907852c8888411a1d4d1c93",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="sharp::MaximumImageAlpha",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a482a48b0a5819d66d352feda7fee2598",tooltip=" "];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="sharp::Is16Bit",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#afbc1dba0c01a0afe83a7de216eb0ff9f",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="sharp::RemoveAlpha",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a74b4ba1780bf0ef20bfc6dc02482505c",tooltip=" "];
+  Node5 -> Node2 [id="edge5_Node000005_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node6 [id="edge6_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="stats",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$stats_8cc.html#ab981ca1894aa565c428ab273a3e95db2",tooltip=" "];
+  Node6 -> Node7 [id="edge7_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="sharp::CreateInputDescriptor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a3f2ac7b69894ff11334c3fbf41aa0647",tooltip=" "];
+  Node7 -> Node8 [id="edge8_Node000007_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="sharp::AttrAsBool",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#af3817fce9af91130ae5fbb2dcde21def",tooltip=" "];
+  Node7 -> Node9 [id="edge9_Node000007_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="sharp::AttrAsDouble",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a1f77973c471508cfdd7ec85346d6ece6",tooltip=" "];
+  Node7 -> Node10 [id="edge10_Node000007_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="sharp::AttrAsEnum",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a042b4f0e6f24e4e06b0a3811fd87a83b",tooltip=" "];
+  Node10 -> Node11 [id="edge11_Node000010_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="sharp::AttrAsStr",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a01b7cd6f34c6e691c4155a1e6a6caf50",tooltip=" "];
+  Node7 -> Node12 [id="edge12_Node000007_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="sharp::AttrAsInt32",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#ac9b50ef5d437de0e84dd325f78685e78",tooltip=" "];
+  Node7 -> Node13 [id="edge13_Node000007_Node000013",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="sharp::AttrAsInt64",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#aaadd45ae9050ebd2377017da15078f26",tooltip=" "];
+  Node7 -> Node11 [id="edge14_Node000007_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node7 -> Node14 [id="edge15_Node000007_Node000014",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="sharp::AttrAsUint32",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#aae0d3f5120185df56b4305a9d2b27297",tooltip=" "];
+  Node7 -> Node15 [id="edge16_Node000007_Node000015",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="sharp::AttrAsVectorOfDouble",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#afd48bb2b07087ce8a51ee9f92da689b9",tooltip=" "];
+  Node15 -> Node9 [id="edge17_Node000015_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node7 -> Node16 [id="edge18_Node000007_Node000016",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="sharp::HasAttr",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacesharp.html#a81cfee93c550fc7810df226b1828b0f0",tooltip=" "];
+}

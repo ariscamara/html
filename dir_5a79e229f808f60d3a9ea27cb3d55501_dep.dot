@@ -1,0 +1,16 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/tailwindcss/src/postcss-plugins"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_60ca6c419929fe0586045cbf0d247da2 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="src", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_60ca6c419929fe0586045cbf0d247da2.html",tooltip=""]
+  subgraph clusterdir_5a79e229f808f60d3a9ea27cb3d55501 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_5a79e229f808f60d3a9ea27cb3d55501.html",tooltip=""]
+    dir_5a79e229f808f60d3a9ea27cb3d55501 [shape=plaintext, label="postcss-plugins"];
+  dir_ef9409a7ee597e5902e1f8ba889e449c [label="nesting", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ef9409a7ee597e5902e1f8ba889e449c.html",tooltip=""];
+  }
+  }
+}

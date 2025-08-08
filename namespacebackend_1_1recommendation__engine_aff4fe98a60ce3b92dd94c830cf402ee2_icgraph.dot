@@ -1,0 +1,11 @@
+digraph "backend.recommendation_engine.calculate_recipe_complexity_score"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="backend.recommendation\l_engine.calculate_recipe\l_complexity_score",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="backend.recommendation\l_engine.get_recipe_recommendations",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespacebackend_1_1recommendation__engine.html#ad52d4a67dba38168e15d8687e3e9cabc",tooltip=" "];
+}

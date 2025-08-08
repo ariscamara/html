@@ -1,0 +1,12 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/enquirer/node_modules/ansi-regex"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_df9ceefb12d4990e559cf7cb4b30934a {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="node_modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_df9ceefb12d4990e559cf7cb4b30934a.html",tooltip=""]
+  dir_308372848fc969c192098b1f0b587152 [label="ansi-regex", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_308372848fc969c192098b1f0b587152.html",tooltip=""];
+  }
+}

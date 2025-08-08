@@ -1,0 +1,12 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/@isaacs/balanced-match"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_f4fbb712b37becd63d869b3d54cc0403 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="@isaacs", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_f4fbb712b37becd63d869b3d54cc0403.html",tooltip=""]
+  dir_a58b7c1ee80b70f6249970869940f293 [label="balanced-match", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_a58b7c1ee80b70f6249970869940f293.html",tooltip=""];
+  }
+}

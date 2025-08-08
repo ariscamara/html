@@ -1,0 +1,128 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/@babel"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_5091f2b68170d33f954320199e2fed0a {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="node_modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_5091f2b68170d33f954320199e2fed0a.html",tooltip=""]
+  subgraph clusterdir_722061c1cf8b4789a21e021c5ce72eb2 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_722061c1cf8b4789a21e021c5ce72eb2.html",tooltip=""]
+    dir_722061c1cf8b4789a21e021c5ce72eb2 [shape=plaintext, label="@babel"];
+  dir_eba173a525a0dd1315a50097c81890a3 [label="code-frame", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_eba173a525a0dd1315a50097c81890a3.html",tooltip=""];
+  dir_034140a87b9e67be81b1f8c64a8676fd [label="compat-data", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_034140a87b9e67be81b1f8c64a8676fd.html",tooltip=""];
+  dir_56050801fb0a13c6f644169606336a16 [label="core", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_56050801fb0a13c6f644169606336a16.html",tooltip=""];
+  dir_c1f6804f08f2d43b2d1bd2d34c2efc7e [label="generator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c1f6804f08f2d43b2d1bd2d34c2efc7e.html",tooltip=""];
+  dir_14fe34639b40ace4279edd614173f654 [label="helper-annotate-as-pure", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_14fe34639b40ace4279edd614173f654.html",tooltip=""];
+  dir_30df37ffa1121239fad978e86fdc573a [label="helper-compilation\l-targets", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_30df37ffa1121239fad978e86fdc573a.html",tooltip=""];
+  dir_5e229192c8c59e87a61494a79a5ac8f1 [label="helper-create-class\l-features-plugin", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_5e229192c8c59e87a61494a79a5ac8f1.html",tooltip=""];
+  dir_e37108373925015fa1e6f69202039bfb [label="helper-create-regexp\l-features-plugin", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e37108373925015fa1e6f69202039bfb.html",tooltip=""];
+  dir_73b832b280ead66863588df5ecb43fbb [label="helper-define-polyfill\l-provider", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_73b832b280ead66863588df5ecb43fbb.html",tooltip=""];
+  dir_ad7cc9927cf792a4924ce831c2657350 [label="helper-globals", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ad7cc9927cf792a4924ce831c2657350.html",tooltip=""];
+  dir_ae6e7bc9afc77129c27defbfefad56ad [label="helper-member-expression\l-to-functions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ae6e7bc9afc77129c27defbfefad56ad.html",tooltip=""];
+  dir_5815268af33efbf74c6fc140c2556052 [label="helper-module-imports", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_5815268af33efbf74c6fc140c2556052.html",tooltip=""];
+  dir_5073cf7e6f709f6b12238f0994c56fad [label="helper-module-transforms", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_5073cf7e6f709f6b12238f0994c56fad.html",tooltip=""];
+  dir_d59045fce4bec034aaf46171b389aa4d [label="helper-optimise-call\l-expression", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d59045fce4bec034aaf46171b389aa4d.html",tooltip=""];
+  dir_e35af18c1c679ee620df862fca4b04af [label="helper-plugin-utils", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e35af18c1c679ee620df862fca4b04af.html",tooltip=""];
+  dir_5384abe342e162a6bf5ca733dd8258e9 [label="helper-remap-async\l-to-generator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_5384abe342e162a6bf5ca733dd8258e9.html",tooltip=""];
+  dir_26d4ff8af2571a2c78f7d7b1ca75a3c3 [label="helper-replace-supers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_26d4ff8af2571a2c78f7d7b1ca75a3c3.html",tooltip=""];
+  dir_892fc37d3b2b92bf3b8f6e40f81e6cd8 [label="helper-skip-transparent\l-expression-wrappers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_892fc37d3b2b92bf3b8f6e40f81e6cd8.html",tooltip=""];
+  dir_bce20b044cc348eade35180973bfbebf [label="helper-string-parser", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_bce20b044cc348eade35180973bfbebf.html",tooltip=""];
+  dir_86f04ec3edab6bb0a1cfc321b9739482 [label="helper-validator-identifier", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_86f04ec3edab6bb0a1cfc321b9739482.html",tooltip=""];
+  dir_8c54f4caf3e44edd435ed546611dfd82 [label="helper-validator-option", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_8c54f4caf3e44edd435ed546611dfd82.html",tooltip=""];
+  dir_640059b802281d26eee17378c54cb5e9 [label="helper-wrap-function", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_640059b802281d26eee17378c54cb5e9.html",tooltip=""];
+  dir_7a41c2b7b100345fdc961791334cf2eb [label="helpers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7a41c2b7b100345fdc961791334cf2eb.html",tooltip=""];
+  dir_092a4b4ece6f8bc789f4df45b75d0670 [label="parser", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_092a4b4ece6f8bc789f4df45b75d0670.html",tooltip=""];
+  dir_12156fd3c998ea123ba6f0dd0e250409 [label="plugin-bugfix-firefox\l-class-in-computed-class-key", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_12156fd3c998ea123ba6f0dd0e250409.html",tooltip=""];
+  dir_101995b37e3cebf70e0aac941249e602 [label="plugin-bugfix-safari\l-class-field-initializer-scope", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_101995b37e3cebf70e0aac941249e602.html",tooltip=""];
+  dir_b2406862629432b2591d6bb3afbf340a [label="plugin-bugfix-safari\l-id-destructuring-collision\l-in-function-expression", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b2406862629432b2591d6bb3afbf340a.html",tooltip=""];
+  dir_34c4f9c932ca148cbdbdf189193eaa34 [label="plugin-bugfix-v8-spread\l-parameters-in-optional\l-chaining", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_34c4f9c932ca148cbdbdf189193eaa34.html",tooltip=""];
+  dir_d8e5ec877edf10e9c6f8f2b543458798 [label="plugin-bugfix-v8-static\l-class-fields-redefine\l-readonly", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d8e5ec877edf10e9c6f8f2b543458798.html",tooltip=""];
+  dir_7cabea86823fb506cf2cdd14ef421419 [label="plugin-proposal-private\l-property-in-object", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7cabea86823fb506cf2cdd14ef421419.html",tooltip=""];
+  dir_cf6c1748694b6de3242129be73bf4f5f [label="plugin-syntax-async\l-generators", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_cf6c1748694b6de3242129be73bf4f5f.html",tooltip=""];
+  dir_4cae9e5e0a295497db0f6f8e36d2d3e0 [label="plugin-syntax-bigint", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_4cae9e5e0a295497db0f6f8e36d2d3e0.html",tooltip=""];
+  dir_f00ed55f73be879bd4b67988ecebc09d [label="plugin-syntax-class\l-properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_f00ed55f73be879bd4b67988ecebc09d.html",tooltip=""];
+  dir_4a402bc4b7301fa761b549f1303f8273 [label="plugin-syntax-class\l-static-block", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_4a402bc4b7301fa761b549f1303f8273.html",tooltip=""];
+  dir_bfdcbf3691e1c07df9b22ac42945de0f [label="plugin-syntax-import\l-assertions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_bfdcbf3691e1c07df9b22ac42945de0f.html",tooltip=""];
+  dir_beabcf9368f27e8e88b3bfdcad079e2f [label="plugin-syntax-import\l-attributes", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_beabcf9368f27e8e88b3bfdcad079e2f.html",tooltip=""];
+  dir_7fee953b94f5a80744387b91d37f127c [label="plugin-syntax-import-meta", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7fee953b94f5a80744387b91d37f127c.html",tooltip=""];
+  dir_c5ff3fd94d806e2e79653a815134789e [label="plugin-syntax-json\l-strings", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c5ff3fd94d806e2e79653a815134789e.html",tooltip=""];
+  dir_afe53a8ed2ed0792f3a28fe29bc5d3cf [label="plugin-syntax-jsx", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_afe53a8ed2ed0792f3a28fe29bc5d3cf.html",tooltip=""];
+  dir_a82d7046515df1420bb9c9ebac42ffb8 [label="plugin-syntax-logical\l-assignment-operators", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a82d7046515df1420bb9c9ebac42ffb8.html",tooltip=""];
+  dir_d5774709541665cffd76083d16751f89 [label="plugin-syntax-nullish\l-coalescing-operator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d5774709541665cffd76083d16751f89.html",tooltip=""];
+  dir_b613098a57f7931962c9abe892227174 [label="plugin-syntax-numeric\l-separator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b613098a57f7931962c9abe892227174.html",tooltip=""];
+  dir_926389edb4e4f5a663fa2dfd449c9f16 [label="plugin-syntax-object\l-rest-spread", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_926389edb4e4f5a663fa2dfd449c9f16.html",tooltip=""];
+  dir_bd4bb60057484bb9e69add7ea8ab27dc [label="plugin-syntax-optional\l-catch-binding", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_bd4bb60057484bb9e69add7ea8ab27dc.html",tooltip=""];
+  dir_020c3adadf8f481c6d337e8ace328948 [label="plugin-syntax-optional\l-chaining", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_020c3adadf8f481c6d337e8ace328948.html",tooltip=""];
+  dir_2933168899b4b74c7087497abcd0583c [label="plugin-syntax-private\l-property-in-object", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2933168899b4b74c7087497abcd0583c.html",tooltip=""];
+  dir_ebd28dbcf781a8dacf5b4ea36bb978a7 [label="plugin-syntax-top-level\l-await", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ebd28dbcf781a8dacf5b4ea36bb978a7.html",tooltip=""];
+  dir_109f3e80d3ca65fa61aa8f4d94d00bb3 [label="plugin-syntax-typescript", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_109f3e80d3ca65fa61aa8f4d94d00bb3.html",tooltip=""];
+  dir_bb3983b30fc7efe322ac24fdb45631be [label="plugin-syntax-unicode\l-sets-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_bb3983b30fc7efe322ac24fdb45631be.html",tooltip=""];
+  dir_6e944c6c6930ad6b7580b08865e88b4d [label="plugin-transform-arrow\l-functions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_6e944c6c6930ad6b7580b08865e88b4d.html",tooltip=""];
+  dir_59a18b1c6292ada98d71ce2abbb742aa [label="plugin-transform-async\l-generator-functions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_59a18b1c6292ada98d71ce2abbb742aa.html",tooltip=""];
+  dir_1a5b3bfafc806563efaf8e9ac51911aa [label="plugin-transform-async\l-to-generator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_1a5b3bfafc806563efaf8e9ac51911aa.html",tooltip=""];
+  dir_c6bd76fde7f48a7618ee5ae1441ceb96 [label="plugin-transform-block\l-scoped-functions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c6bd76fde7f48a7618ee5ae1441ceb96.html",tooltip=""];
+  dir_d884f16b9a263c60784a5cf53bb6eee2 [label="plugin-transform-block\l-scoping", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d884f16b9a263c60784a5cf53bb6eee2.html",tooltip=""];
+  dir_db1379861de70f2134b6aaef9abeee97 [label="plugin-transform-class\l-properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_db1379861de70f2134b6aaef9abeee97.html",tooltip=""];
+  dir_b4191af365451aeca91527a42fc68d56 [label="plugin-transform-class\l-static-block", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b4191af365451aeca91527a42fc68d56.html",tooltip=""];
+  dir_ae1849c5902935187456e72278338e80 [label="plugin-transform-classes", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ae1849c5902935187456e72278338e80.html",tooltip=""];
+  dir_305a50f4a78c211fec2b0f523decaad0 [label="plugin-transform-computed\l-properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_305a50f4a78c211fec2b0f523decaad0.html",tooltip=""];
+  dir_68916a6b01c34cb3da8ab3a1ba342a0c [label="plugin-transform-destructuring", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_68916a6b01c34cb3da8ab3a1ba342a0c.html",tooltip=""];
+  dir_2d614472ad7106a11e41630ecff2136e [label="plugin-transform-dotall\l-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2d614472ad7106a11e41630ecff2136e.html",tooltip=""];
+  dir_391762f3cd5d1360bf7dca840e5ae0c4 [label="plugin-transform-duplicate-keys", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_391762f3cd5d1360bf7dca840e5ae0c4.html",tooltip=""];
+  dir_6513ed008f0611a5848eee7eac13d60f [label="plugin-transform-duplicate\l-named-capturing-groups-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_6513ed008f0611a5848eee7eac13d60f.html",tooltip=""];
+  dir_d55716e722cf464b2a8d85c4d5a26344 [label="plugin-transform-dynamic\l-import", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d55716e722cf464b2a8d85c4d5a26344.html",tooltip=""];
+  dir_deaf56b23434fbb5d3bd9fa74e309655 [label="plugin-transform-explicit\l-resource-management", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_deaf56b23434fbb5d3bd9fa74e309655.html",tooltip=""];
+  dir_e7b387e4af3b0ab58b9c804a22f109b7 [label="plugin-transform-exponentiation\l-operator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e7b387e4af3b0ab58b9c804a22f109b7.html",tooltip=""];
+  dir_e0c6abb89dc466b649e54258d021df8c [label="plugin-transform-export\l-namespace-from", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e0c6abb89dc466b649e54258d021df8c.html",tooltip=""];
+  dir_f9a4876ce667e276d445c729042741de [label="plugin-transform-for-of", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_f9a4876ce667e276d445c729042741de.html",tooltip=""];
+  dir_a34eafb1550c676b09a9e6b54a1c0df0 [label="plugin-transform-function-name", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_a34eafb1550c676b09a9e6b54a1c0df0.html",tooltip=""];
+  dir_982e3254a529e2b95c4f319abaf9dc0e [label="plugin-transform-json\l-strings", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_982e3254a529e2b95c4f319abaf9dc0e.html",tooltip=""];
+  dir_ed06ac32a0428b7eda37c7a4a8391185 [label="plugin-transform-literals", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ed06ac32a0428b7eda37c7a4a8391185.html",tooltip=""];
+  dir_b6619bc68f6c82f77db62676808bd9ab [label="plugin-transform-logical\l-assignment-operators", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b6619bc68f6c82f77db62676808bd9ab.html",tooltip=""];
+  dir_7751aadea2c581b81057f843ac1c7b70 [label="plugin-transform-member\l-expression-literals", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_7751aadea2c581b81057f843ac1c7b70.html",tooltip=""];
+  dir_6c408c3e83f2737816a5c09a68be5a93 [label="plugin-transform-modules-amd", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_6c408c3e83f2737816a5c09a68be5a93.html",tooltip=""];
+  dir_2099eb476c2a55d7ee843d9a8cb133fd [label="plugin-transform-modules\l-commonjs", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2099eb476c2a55d7ee843d9a8cb133fd.html",tooltip=""];
+  dir_82055ced2872fd489559a2d87600241a [label="plugin-transform-modules\l-systemjs", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_82055ced2872fd489559a2d87600241a.html",tooltip=""];
+  dir_619048bde5b7acfa6f0f9b58794006b5 [label="plugin-transform-modules-umd", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_619048bde5b7acfa6f0f9b58794006b5.html",tooltip=""];
+  dir_2a1a36acfdaa7b7be565e4b78749506d [label="plugin-transform-named\l-capturing-groups-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2a1a36acfdaa7b7be565e4b78749506d.html",tooltip=""];
+  dir_acdbd76693c516a32a0d15645b30cbaa [label="plugin-transform-new\l-target", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_acdbd76693c516a32a0d15645b30cbaa.html",tooltip=""];
+  dir_19a1d30770b16a2fb671cc91ea84922e [label="plugin-transform-nullish\l-coalescing-operator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_19a1d30770b16a2fb671cc91ea84922e.html",tooltip=""];
+  dir_2731bf3b64754802a1b6e608fe25892b [label="plugin-transform-numeric\l-separator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2731bf3b64754802a1b6e608fe25892b.html",tooltip=""];
+  dir_9f0f6591dc7fc8c0d9de467a9ca844d2 [label="plugin-transform-object\l-rest-spread", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_9f0f6591dc7fc8c0d9de467a9ca844d2.html",tooltip=""];
+  dir_3858300c3574249dac7c136cacef8adb [label="plugin-transform-object\l-super", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3858300c3574249dac7c136cacef8adb.html",tooltip=""];
+  dir_1618163ccdccc66d13a7dbca2ed5d025 [label="plugin-transform-optional\l-catch-binding", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_1618163ccdccc66d13a7dbca2ed5d025.html",tooltip=""];
+  dir_e4910785693eccb6e4ce54448956b255 [label="plugin-transform-optional\l-chaining", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e4910785693eccb6e4ce54448956b255.html",tooltip=""];
+  dir_e5fc550cafef9c7094676e2accd794b8 [label="plugin-transform-parameters", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e5fc550cafef9c7094676e2accd794b8.html",tooltip=""];
+  dir_8420aaf78cd5ff6c4cd9cefa4ee8c120 [label="plugin-transform-private\l-methods", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_8420aaf78cd5ff6c4cd9cefa4ee8c120.html",tooltip=""];
+  dir_d26d63a75f342c52d26eb07b380b7049 [label="plugin-transform-private\l-property-in-object", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d26d63a75f342c52d26eb07b380b7049.html",tooltip=""];
+  dir_4e37274da5ccaca78775bf54519d114d [label="plugin-transform-property\l-literals", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_4e37274da5ccaca78775bf54519d114d.html",tooltip=""];
+  dir_daf9ea396c16ca365689d541ebc1b644 [label="plugin-transform-react\l-display-name", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_daf9ea396c16ca365689d541ebc1b644.html",tooltip=""];
+  dir_99047f4cf6e1c5431ee4326f94e5fc27 [label="plugin-transform-react-jsx", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_99047f4cf6e1c5431ee4326f94e5fc27.html",tooltip=""];
+  dir_c1171cdaa3ebf02c99082638874ae357 [label="plugin-transform-react\l-jsx-development", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c1171cdaa3ebf02c99082638874ae357.html",tooltip=""];
+  dir_0e3ead4c617491d4221603c2de70e92d [label="plugin-transform-react\l-pure-annotations", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_0e3ead4c617491d4221603c2de70e92d.html",tooltip=""];
+  dir_00c3b1122318aa65b43d0aac28643c0b [label="plugin-transform-regenerator", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_00c3b1122318aa65b43d0aac28643c0b.html",tooltip=""];
+  dir_06c68fc87d1da3a2d11d926b573a7f26 [label="plugin-transform-regexp\l-modifiers", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_06c68fc87d1da3a2d11d926b573a7f26.html",tooltip=""];
+  dir_e662c39cd1865ef1364288e355495c0c [label="plugin-transform-reserved\l-words", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_e662c39cd1865ef1364288e355495c0c.html",tooltip=""];
+  dir_3631f2f154dc79e63cff855d962e59a0 [label="plugin-transform-shorthand\l-properties", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3631f2f154dc79e63cff855d962e59a0.html",tooltip=""];
+  dir_9dd7be0f1113b9dc793de7b1dee022f5 [label="plugin-transform-spread", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_9dd7be0f1113b9dc793de7b1dee022f5.html",tooltip=""];
+  dir_ae9b5a0c1c34ac8ba61f2fbb2c8c6670 [label="plugin-transform-sticky\l-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ae9b5a0c1c34ac8ba61f2fbb2c8c6670.html",tooltip=""];
+  dir_d2f9c8b482060b17428dabed150dbdef [label="plugin-transform-template\l-literals", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_d2f9c8b482060b17428dabed150dbdef.html",tooltip=""];
+  dir_543043bcad0af549d589ca7088ddb272 [label="plugin-transform-typeof\l-symbol", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_543043bcad0af549d589ca7088ddb272.html",tooltip=""];
+  dir_5ceaf8ac43425b6e5791d7451914a99a [label="plugin-transform-typescript", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_5ceaf8ac43425b6e5791d7451914a99a.html",tooltip=""];
+  dir_147ba2da6111d8f9e25bad933eee8c3e [label="plugin-transform-unicode\l-escapes", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_147ba2da6111d8f9e25bad933eee8c3e.html",tooltip=""];
+  dir_3277ec2dc146dc7990f542ca104d7211 [label="plugin-transform-unicode\l-property-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_3277ec2dc146dc7990f542ca104d7211.html",tooltip=""];
+  dir_80fc2f77f8bcd6c86693fb72b3a30984 [label="plugin-transform-unicode\l-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_80fc2f77f8bcd6c86693fb72b3a30984.html",tooltip=""];
+  dir_ec225c4faecb38b282b062aba8483528 [label="plugin-transform-unicode\l-sets-regex", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ec225c4faecb38b282b062aba8483528.html",tooltip=""];
+  dir_c21f144ce038f9496c2249804ab089d0 [label="preset-env", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c21f144ce038f9496c2249804ab089d0.html",tooltip=""];
+  dir_1c3378821ebd2da14a8c46551fb87db8 [label="preset-modules", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_1c3378821ebd2da14a8c46551fb87db8.html",tooltip=""];
+  dir_c993d94aacccf64be4a94495a31ad75b [label="preset-react", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c993d94aacccf64be4a94495a31ad75b.html",tooltip=""];
+  dir_9cf64b967023ae40965f5a727a673095 [label="preset-typescript", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_9cf64b967023ae40965f5a727a673095.html",tooltip=""];
+  dir_44163ecefedffcb371b8bd6ac9a26146 [label="runtime", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_44163ecefedffcb371b8bd6ac9a26146.html",tooltip=""];
+  dir_b546e4d2d14a5cb2fc951f268a594eef [label="template", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b546e4d2d14a5cb2fc951f268a594eef.html",tooltip=""];
+  dir_33514d60cec60100b875d2b850f5f7ba [label="traverse", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_33514d60cec60100b875d2b850f5f7ba.html",tooltip=""];
+  dir_99f671fdb9a3b5875e880edf2aea887f [label="types", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_99f671fdb9a3b5875e880edf2aea887f.html",tooltip=""];
+  }
+  }
+}

@@ -1,0 +1,12 @@
+digraph "C:/Users/arisc/OneDrive/Documents/GitHub/FINAL/EcoEats-Project/node_modules/string-width-cjs/node_modules/strip-ansi"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_1342c17cc8b04b550c13f1b45813eefb {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="node_modules", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_1342c17cc8b04b550c13f1b45813eefb.html",tooltip=""]
+  dir_d2195b0acb930660ef7c84c44f4d6c59 [label="strip-ansi", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_d2195b0acb930660ef7c84c44f4d6c59.html",tooltip=""];
+  }
+}
